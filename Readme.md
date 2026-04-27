@@ -1,10 +1,10 @@
 <!-- ====================== Banner ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Nirjhor%20Akash&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58" width="100%" />
+  <img src="https://github.com/Nirjhor07/Nirjhor07/blob/main/cover%20linkedin.jpg?raw=true" width="100%" />
 </p>
 
 <!-- ====================== Title ====================== -->
-<h1 align="center">👋 Hey there! I'm Nirjhor Akash</h1>
+<h1 align="center">👋 Hey there! I'm Ashraf Hossain Akash</h1>
 <h3 align="center">A passionate developer focused on building clean, scalable & user-friendly applications</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 📝 About Me
 
-- 💻 I’m **Nirjhor Akash**
+- 💻 I’m **Ashraf Hossain Akash**
 - 🚀 Skilled in **JavaScript, React, Next.js, Node.js, MongoDB**
 - 🎯 I build **responsive, scalable, modern web applications**
 - 🌱 Currently learning **TypeScript, Backend Architecture, AI Integration**
