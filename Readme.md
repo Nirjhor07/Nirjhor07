@@ -22,6 +22,8 @@
 - 💬 Ask me about **Frontend, Backend, MERN, Next.js, APIs**
 - 📫 Reach me: **nirjhorakash07@gmail.com**
 - ⚡ Fun Fact: **I love turning ideas into real products**
+- 📌 View My CV:  
+👉 [Open CV](https://github.com/Nirjhor07/Nirjhor07/blob/main/Ashraf%20Hossain%20Akash.pdf)
 
 ---
 
